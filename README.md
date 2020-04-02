@@ -1,8 +1,6 @@
 # Furniture AR
 This is an AR-Core based Project which helps the user to view their furniture in Augmented Reality and place it in the real world.
 
-<h2>To use the app directly:</h2>
-
 <h2>What a user can do:</h2>
 <ul>
 <li> Opening up catalogue to select the desired furniture.</li>
